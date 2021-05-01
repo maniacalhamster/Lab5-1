@@ -1,11 +1,12 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Akar Singh
+- Nathan Rinker
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+maniacalhamster.github.io/Lab5-1
 
 ## Part 2:
 
