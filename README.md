@@ -10,4 +10,4 @@ maniacalhamster.github.io/Lab5-1
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/maniacalhamster/github-actions-for-ci/issues/7
