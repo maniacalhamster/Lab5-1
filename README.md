@@ -6,7 +6,7 @@
 
 ## Part 1:
 
-maniacalhamster.github.io/Lab5-1
+https://maniacalhamster.github.io/Lab5-1
 
 ## Part 2:
 
